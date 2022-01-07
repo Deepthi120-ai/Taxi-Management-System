@@ -1,0 +1,17 @@
+use Taxi_Management_System;
+select * from Driver;
+select * from Taxi;
+select * from Passenger;
+select * from Drive_Taxi;
+select * from Taxi_Available;
+select * from Booking_Options;
+select * from Routes;
+select * from Areas;
+select * from Feedback;
+select * from Bill_Details;
+select * from Trip_Details;
+select * from Booking_Details;
+select * from Violation_Records;
+select * from Maintanance_Records;
+select * from Accident_Records;
+select * from Accident_Driver;
